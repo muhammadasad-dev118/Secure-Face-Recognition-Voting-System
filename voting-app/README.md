@@ -1,7 +1,3 @@
-Gemini said
-GitHub ke liye ek Professional Readme file boht zaroori hai, taake jab koi aapka project dekhe (chahe wo employer ho ya open-source contributor), use samajh aa jaye ke ye kitna advanced system hai.
-
-Yahan aapke Face Recognition Voting App ki ek "Ready-to-Use" README file hai:
 
 🗳️ Secure Face Recognition Voting System (Laravel 11)
 An advanced, biometric-based electronic voting web application built with Laravel 11 and Face-api.js. This system ensures "One Person, One Vote" by verifying the voter's identity through real-time facial recognition.
